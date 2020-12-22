@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋! This is Tong Xiang.
 
+- 🔭 I’m currently working on **Natural Language Processing (NLP)** and **Computational Social Science**
+- 🌱 I’m currently applying for **Ph.D** and positions such as **Machine Learning Engineer**
 <!--
 **mathfather/mathfather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
