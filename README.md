@@ -1,6 +1,6 @@
 ### Hi there 👋! This is Tong Xiang.
 
-- 👯 I'm currently a second year master's student major in **Computer Science** at **Georgetown University**, where I am supervised by [Professor Nazli Goharian](http://people.cs.georgetown.edu/~nazli/).
+- 👯 I'm currently a second year master's student major in **Computer Science** at **Georgetown University**, where I am supervised by [Professor Nazli Goharian](http://people.cs.georgetown.edu/~nazli/)
 - 🔭 I’m currently working on **Natural Language Processing (NLP)** and **Computational Social Science**
 - 🌱 I’m currently applying for **Ph.D** and positions such as **Machine Learning Engineer**
 <!--
